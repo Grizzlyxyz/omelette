@@ -56,3 +56,55 @@
 //// Lavabo
 //// etat -> vide ,rempli
 
+let Personne = {
+    nom : "Larson",
+    prenom: "Nicky",
+    age : 25,
+    argent : 30000,
+    humeur : "heureux",
+};
+// Ingredient.
+let Poivron = {
+    etat : 'couper',
+    prix : 3,
+};
+
+let Oignon = {
+    etat : 'haché',
+    prix : 2,
+};
+
+let Paprika = {
+    etat : 'poudre',
+    prix : 5,
+};
+
+let Fromage = {
+    etat : 'rapper',
+    prix : 2,
+};
+
+let Salami =  {
+    etat : 'couper',
+    prix : 2,
+};
+
+let Oeuf = {
+    etat : "battue",
+    prix : 3,
+};
+
+// Ustensile de cuisine. 
+
+let Fouet = {
+    etat = "propre",
+};
+
+let Poele = {
+    etat = "propre",
+};
+
+let Spatule = {
+    etat = "propre",
+};
+ 
